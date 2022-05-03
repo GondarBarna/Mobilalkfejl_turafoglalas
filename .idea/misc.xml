@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout-land/activity_register.xml" value="0.25390625" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.18333333333333332" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout/activity_login.xml" value="0.1671654553227875" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout/activity_main.xml" value="0.18333333333333332" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout/activity_tour_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/layout/tour.xml" value="0.36666666666666664" />
+        <entry key="..\:/Programozas/Android/Turafoglalas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

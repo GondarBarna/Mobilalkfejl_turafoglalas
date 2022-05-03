@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_elements_width">380dp</dimen>
+    <dimen name="login_landscape_width">208dp</dimen>
+    <item name="register_input_bias" type="dimen" format="float">0.05</item>
+</resources>

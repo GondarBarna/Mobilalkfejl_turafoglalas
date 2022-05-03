@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Turafoglalas</string>
+    <string name="email_text">E-mail cím</string>
+    <string name="password_text">Jelszó</string>
+    <string name="login_text">Bejelentkezés</string>
+    <string name="register_text">Regisztráció</string>
+    <string name="guestlogin_text">Bejelentkezés vendégként</string>
+    <string name="app_login_text">Túrafoglalás bejelentkezés</string>
+    <string name="app_register_text">Túrafoglalás regisztráció</string>
+    <string name="password_again_text">Jelszó még egyszer</string>
+    <string name="back_text">Vissza</string>
+
+    <string-array name="tour_names">
+        <item>Zempléni túra</item>
+        <item>Kéktúra (Bakonybél-Bodajt)</item>
+        <item>Cseh óriáshegység</item>
+        <item>Szlovák paradicsom</item>
+        <item>Dolomitok gyalogtúra</item>
+        <item>Erdélyi karszthegység</item>
+        <item>Júlia-Alpok gyalogtúra</item>
+        <item>Svájci gyalogtúrák</item>
+        <item>Mount-Everest</item>
+        <item>Szlovák gyalogtúra</item>
+    </string-array>
+
+    <string-array name="tour_locations">
+        <item>Zemplén hegység</item>
+        <item>Bakonybél</item>
+        <item>Krkonose</item>
+        <item>Piecky-szurdok</item>
+        <item>Pozza di Fassa</item>
+        <item>Bihar-hegység</item>
+        <item>Triglav Nemzeti Park</item>
+        <item>Észak-Alpok</item>
+        <item>Nepál</item>
+        <item>Alacsony-Tátra</item>
+    </string-array>
+
+    <integer-array name="tour_lengths">
+        <item>33</item>
+        <item>84</item>
+        <item>43</item>
+        <item>41</item>
+        <item>44</item>
+        <item>43</item>
+        <item>42</item>
+        <item>35</item>
+        <item>120</item>
+        <item>17</item>
+    </integer-array>
+
+    <array name="tour_covers">
+        <item>@drawable/zemplen</item>
+        <item>@drawable/kektura</item>
+        <item>@drawable/cseh</item>
+        <item>@drawable/szlovak</item>
+        <item>@drawable/dolomit</item>
+        <item>@drawable/bihar</item>
+        <item>@drawable/alpok</item>
+        <item>@drawable/svajc</item>
+        <item>@drawable/everest</item>
+        <item>@drawable/tatra</item>
+    </array>
+</resources>
